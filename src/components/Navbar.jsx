@@ -44,8 +44,8 @@ const Navbar = () => {
                             ))}
                         </ul>
                         <div className="flex space-x-2 py-4">
-                            <a href = '#' className = 'py-1 px-2 border rounded-md'>Sign In</a>
-                            <a href = '#' className = 'bg-gradient-to-r from-purple-500 to-purple-800 py-1 px-2  rounded-md '>Create an account</a>
+                            <a href = '#' className = 'py-1 px-2 border rounded-md text-center'>Sign In</a>
+                            <a href = '#' className = 'bg-gradient-to-r from-purple-500 to-purple-800 py-1 px-2  rounded-md text-center'>Create an account</a>
                         </div>
                     </div>
                 )}
