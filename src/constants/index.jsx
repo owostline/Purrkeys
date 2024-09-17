@@ -1,9 +1,9 @@
-import { BotMessageSquare } from "lucide-react";
-import { BatteryCharging } from "lucide-react";
-import { Fingerprint } from "lucide-react";
-import { ShieldHalf } from "lucide-react";
-import { PlugZap } from "lucide-react";
-import { GlobeLock } from "lucide-react";
+import { Cat } from "lucide-react";
+import { ThumbsUp } from "lucide-react";
+import { BringToFront } from "lucide-react";
+import { Hand } from "lucide-react";
+import { LayoutGrid } from "lucide-react";
+import { Settings } from "lucide-react";
 
 import user1 from "../assets/profile-pictures/user1.jpg";
 import user2 from "../assets/profile-pictures/user2.jpg";
@@ -60,63 +60,63 @@ export const testimonials = [
 
 export const features = [
   {
-    icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    icon: <Cat />,
+    text: "Adorable Designs",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Transform your keyboard with cute and playful keycap designs, ranging from adorable cat faces to colorful paws.",
   },
   {
-    icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    icon: <ThumbsUp />,
+    text: "Premium Quality",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Crafted with durable materials, each keycap is designed to withstand heavy typing and maintain its vibrant colors.",
   },
   {
-    icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    icon: <BringToFront />,
+    text: "Universal Fit",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "Compatible with most mechanical keyboards, ensuring that no matter your setup, PurrKeys can enhance your typing experience.",
   },
   {
-    icon: <BatteryCharging />,
-    text: "Real-Time Preview",
+    icon: <Hand />,
+    text: "Easy to Install",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "Swap out your old keycaps effortlessly with our easy-to-use keycap puller tool, included with every order.",
   },
   {
-    icon: <PlugZap />,
-    text: "Collaboration Tools",
+    icon: <LayoutGrid />,
+    text: "Customizable Sets",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "Mix and match keycap sets to create a unique, personalized look for your keyboard that matches your style.",
   },
   {
-    icon: <GlobeLock />,
-    text: "Analytics Dashboard",
+    icon: <Settings />,
+    text: "Ergonomic Design",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "Engineered for comfort, PurrKeys keycaps offer a smooth typing experience with every press.",
   },
 ];
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Cat Collection",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Add playful paws and cute whiskers to your keyboard with our cat-themed keycaps.",
   },
   {
-    title: "Review code without worry",
+    title: "Bunny Bonanza",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Hop into cuteness with bunny ear and fluffy tail keycaps.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "Doggie Delights",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Fetch fun dog-themed keycaps featuring pugs, corgis, and more.",
   },
   {
-    title: "Share work in minutes",
+    title: "Ducky Days",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Quack up your keyboard with adorable duck face and webbed feet keycaps.",
   },
 ];
 

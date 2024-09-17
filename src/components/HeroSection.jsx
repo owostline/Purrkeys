@@ -16,13 +16,13 @@ const HeroSection = () => {
             <a className = "py-1.5 px-3 mx-3 rounded-md border">Learn More</a>
         </div>
         <div className="flex mt-3 flex-row justify-center">
-            <video autoPlay loop muted className = "rounded-lg w-28 md:w-52 lg:w-64 border-2 border-pink-600 shadow-md shadow-purple-600 mx-1">
+            <video autoPlay loop muted className = "rounded-lg w-28 md:w-52 lg:w-64 border-2 border-pink-600 shadow-md shadow-purple-600 mx-1 lg:mx-3">
                 <source src = {video1} type = 'video/mp4'/>
             </video>
-            <video autoPlay loop muted className = "rounded-lg w-28 md:w-52 lg:w-64 border-2 border-pink-600 shadow-md shadow-purple-600 mx-1">
+            <video autoPlay loop muted className = "rounded-lg w-28 md:w-52 lg:w-64 border-2 border-pink-600 shadow-md shadow-purple-600 mx-1 lg:mx-3">
                 <source src = {video2} type = 'video/mp4'/>
             </video>
-            <video autoPlay loop muted className = "rounded-lg w-28 md:w-52 lg:w-64 border-2 border-pink-600 shadow-md shadow-purple-600 mx-1">
+            <video autoPlay loop muted className = "rounded-lg w-28 md:w-52 lg:w-64 border-2 border-pink-600 shadow-md shadow-purple-600 mx-1 lg:mx-3">
                 <source src = {video3} type = 'video/mp4'/>
             </video>
         </div>
