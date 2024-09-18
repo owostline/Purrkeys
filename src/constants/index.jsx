@@ -122,33 +122,33 @@ export const checklistItems = [
 
 export const pricingOptions = [
   {
-    title: "Free",
-    price: "$0",
+    title: "Basic",
+    price: "$3",
     features: [
-      "Private board sharing",
-      "5 Gb Storage",
-      "Web Analytics",
-      "Private Mode",
+      "1 Keycap Design",
+      "Standard Plastic Material",
+      "Basic Color Options",
+      "No Customization",
     ],
   },
   {
     title: "Pro",
     price: "$10",
     features: [
-      "Private board sharing",
-      "10 Gb Storage",
-      "Web Analytics (Advance)",
-      "Private Mode",
+      "5 Keycap Designs",
+      "Premium Plastic Material",
+      "Wide Color Selection",
+      "Basic Customization",
     ],
   },
   {
-    title: "Enterprise",
-    price: "$200",
+    title: "Collector's Edition",
+    price: "$50",
     features: [
-      "Private board sharing",
-      "Unlimited Storage",
-      "High Performance Network",
-      "Private Mode",
+      "Unlimited Keycap Designs",
+      "Premium Plastic Material",
+      "Exclusive Color Options",
+      "Limited Edition Packaging",
     ],
   },
 ];
