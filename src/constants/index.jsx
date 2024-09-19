@@ -22,41 +22,42 @@ export const navItems = [
 export const testimonials = [
   {
     user: "John Doe",
-    company: "Stellar Solutions",
+    company: "Keyboard Enthusiast",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "The PurrKeys keycaps completely transformed my keyboard. They're not only cute but also high-quality. I’m extremely satisfied with the designs!",
   },
   {
     user: "Jane Smith",
-    company: "Blue Horizon Technologies",
+    company: "Custom Build Specialist",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "PurrKeys nailed it with their creative designs. The customization options were exactly what I needed to make my setup truly unique! The keycaps look amazing!",
   },
   {
     user: "David Johnson",
-    company: "Quantum Innovations",
+    company: "Tech Blogger",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "I love how PurrKeys combines style and functionality. Their keycaps are durable, and the attention to detail is impressive. I highly recommend them!",
   },
   {
     user: "Ronee Brown",
-    company: "Fusion Dynamics",
+    company: "Mechanical Keyboard Enthusiast",
     image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "PurrKeys keycaps made my keyboard stand out! The adorable designs are unmatched, and the quality exceeded my expectations. I’m thrilled with my purchase!",
   },
   {
     user: "Michael Wilson",
-    company: "Visionary Creations",
+    company: "Gamer",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "I’m blown away by the variety of keycaps available at PurrKeys. They’re perfect for adding a fun touch to my gaming setup. Highly recommended!",
   },
   {
     user: "Emily Davis",
-    company: "Synergy Systems",
+    company: "Designer",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "PurrKeys took my keyboard design to the next level. The customization and vibrant colors were exactly what I was looking for. Absolutely love them!",
   },
 ];
+
 
 export const features = [
   {

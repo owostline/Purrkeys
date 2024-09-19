@@ -4,6 +4,7 @@ import HeroSection from './components/HeroSection';
 import FeatureSection from './components/FeatureSection';
 import Products from './components/Products';
 import Pricing from './components/Pricing';
+import Testimonials from './components/Testimonials';
 
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
       <FeatureSection />
       <Products />
       <Pricing />
+      <Testimonials />
     </>
   )
 }
