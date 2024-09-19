@@ -5,6 +5,7 @@ import FeatureSection from './components/FeatureSection';
 import Products from './components/Products';
 import Pricing from './components/Pricing';
 import Testimonials from './components/Testimonials';
+import Footer from './components/Footer';
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
       <Products />
       <Pricing />
       <Testimonials />
+      <Footer />
     </>
   )
 }

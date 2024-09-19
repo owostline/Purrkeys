@@ -42,7 +42,7 @@ export const testimonials = [
     user: "Ronee Brown",
     company: "Mechanical Keyboard Enthusiast",
     image: user4,
-    text: "PurrKeys keycaps made my keyboard stand out! The adorable designs are unmatched, and the quality exceeded my expectations. I’m thrilled with my purchase!",
+    text: "PurrKeys keycaps made my keyboard stand out! The adorable designs are unmatched, and the quality exceeded my expectations.",
   },
   {
     user: "Michael Wilson",
@@ -155,25 +155,25 @@ export const pricingOptions = [
 ];
 
 export const resourcesLinks = [
-  { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
+  { href: "#", text: "About Us" },
+  { href: "#", text: "Shipping Information" },
+  { href: "#", text: "Care Instructions" },
+  { href: "#", text: "FAQ" },
+  { href: "#", text: "Contact Support" },
 ];
 
 export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+  { href: "#", text: "Our Collections" },
+  { href: "#", text: "New Arrivals" },
+  { href: "#", text: "Limited Editions" },
+  { href: "#", text: "Customization" },
+  { href: "#", text: "Gift Cards" },
 ];
 
 export const communityLinks = [
-  { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "#", text: "Instagram" },
+  { href: "#", text: "Facebook" },
+  { href: "#", text: "Twitter" },
+  { href: "#", text: "Pinterest" },
+  { href: "#", text: "Customer Reviews" },
 ];
