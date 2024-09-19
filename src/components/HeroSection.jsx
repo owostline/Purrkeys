@@ -22,10 +22,10 @@ const HeroSection = () => {
         your typing feel pawsome!
       </p>
       <div className="flex justify-center my-8">
-        <a className="bg-gradient-to-r from-pink-600 to-purple-900 py-1.5 px-3 mx-3 rounded-md">
+        <a className="bg-gradient-to-r from-pink-600 to-purple-900 py-1.5 px-3 mx-3 rounded-md" href="#">
           Shop Now
         </a>
-        <a className="py-1.5 px-3 mx-3 rounded-md border">Learn More</a>
+        <a className="py-1.5 px-3 mx-3 rounded-md border" href="#">Learn More</a>
       </div>
       <div className="flex mt-3 flex-row justify-center">
         <video
